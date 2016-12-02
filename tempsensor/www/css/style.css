@@ -1,0 +1,31 @@
+/* Empty. Add your own CSS if you like */
+.login {
+    background: url(https://s3.amazonaws.com/Syntaxxx/background-gold-bokeh.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    z-index: 1;
+    position: relative;
+}
+
+.chat {
+    background: url(../img/weather_heather.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    z-index: 1;
+    position: relative;
+}
+h2 {
+    color: #0c457d;
+}
+	
+p {
+    color: #536878;
+}
